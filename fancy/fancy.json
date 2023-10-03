@@ -1,28 +1,28 @@
 {
     "categories": [
         {
-            "name": "Category 1"
+            "category": "Category 1"
         },
         {
-            "name": "Category 2"
+            "category": "Category 2"
         },
         {
-            "name": "Category 3"
+            "category": "Category 3"
         },
         {
-            "name": "Category 4"
+            "category": "Category 4"
         },
         {
-            "name": "Category 5"
+            "category": "Category 5"
         },
         {
-            "name": "Category 6"
+            "category": "Category 6"
         },
         {
-            "name": "Category 7"
+            "category": "Category 7"
         },
         {
-            "name": "Category 8"
+            "category": "Category 8"
         }
     ],
     "items": [
