@@ -2,6 +2,8 @@
     "categories": [
         { "category": "Happy 🥰" },
         { "category": "Angry 😡" },
+        { "category": "Love 🥰" },
+        { "category": "Sad 😭" },
         { "category": "Best 👍🏼" },
         { "category": "Worry 😟" },
         { "category": "Thought 🤔" },
@@ -16,9 +18,7 @@
         { "category": "Fight 🥊" },
         { "category": "Crazy 🤪" },
         { "category": "Chaos 😵‍💫" },
-        { "category": "Sad 😭" },
         { "category": "Hula Hula 👯" },
-        { "category": "Love 🥰" },
         { "category": "Cloud ☁️" },
         { "category": "Bear 🐻" },
         { "category": "Cat 🐱" },
