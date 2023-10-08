@@ -1,12 +1,12 @@
 {
     "categories": [
-        { "imageUrl": "https://github.com/offsong/icon_collection/tree/main/fancy/icon_category_happy.webp", "category": "Happy", "title": "(*´∪`) Happy" },
-        { "imageUrl": "https://github.com/offsong/icon_collection/tree/main/fancy/icon_category_angry.webp","category": "Angry", "title": "୧(๑•̀ᗝ•́)૭ Angry" },
+        { "imageUrl": "https://offsong.github.io/icon_collection/fancy/icon_category_happy.webp", "category": "Happy", "title": "(*´∪`) Happy" },
+        { "imageUrl": "https://offsong.github.io/icon_collection/fancy/icon_category_angry.webp","category": "Angry", "title": "୧(๑•̀ᗝ•́)૭ Angry" },
         { "imageUrl": "https://i.pinimg.com/originals/33/ba/c2/33bac2e90f34f0e12f550360505b522c.png","category": "Love", "title": "3" },
-        { "imageUrl": "https://github.com/offsong/icon_collection/tree/main/fancy/icon_category_sad.webp","category": "Sad", "title": "sadsadasd" },
+        { "imageUrl": "https://offsong.github.io/icon_collection/fancy/icon_category_sad.webp","category": "Sad", "title": "sadsadasd" },
         { "imageUrl": "https://freepngimg.com/save/102499-emoticon-free-download-image/720x720","category": "Best", "title": "5" },
         { "imageUrl": "https://freepngimg.com/save/102499-emoticon-free-download-image/720x720","category": "Worry", "title": "6" },
-        { "imageUrl": "https://github.com/offsong/icon_collection/tree/main/fancy/icon_category_thinking.webp","category": "thinkingthinkingthinking", "title": "7" },
+        { "imageUrl": "https://offsong.github.io/icon_collection/fancy/icon_category_thinking.webp","category": "thinkingthinkingthinking", "title": "7" },
         { "imageUrl": "https://freepngimg.com/save/102499-emoticon-free-download-image/720x720","category": "Exciting", "title": "8" },
         { "imageUrl": "https://i.pinimg.com/736x/43/5f/c1/435fc1d5b5b3d663c79afa2ab0e15c4d.jpg","category": "Study", "title": "9" },
         { "imageUrl": "https://i.pinimg.com/236x/c8/bf/1d/c8bf1d7138898dff968685e693b62aa5.jpg","category": "Please", "title": "10" },
